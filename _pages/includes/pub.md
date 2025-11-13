@@ -2,11 +2,11 @@
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/sr3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/sr3d.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font color=#6c88e4>**Real-Time 3D Object Detection with Inference-Aligned Learning**</font> <font color=red>(Oral)</font>\\
-***Chenyu Zhao***, Xianwei Zheng*, Zimin Xia, Linwei Yue, Nan Xue
+<u>**Chenyu Zhao**</u>, Xianwei Zheng*, Zimin Xia, Linwei Yue, Nan Xue
 
 **[** [**Paper**](https://arxiv.org) **]**
 <!-- <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
