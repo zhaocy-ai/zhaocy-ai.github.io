@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenyu Zhao's Homepage"
+title                    : "Chenyu Zhao (赵晨宇)"
 description              : "Focusing on 3D Computer Vision."
 repository               : "zhaocy-ai/zhaocy-ai.github.io"
 google_scholar_stats_use_cdn : true
