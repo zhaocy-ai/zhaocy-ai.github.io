@@ -14,7 +14,7 @@
 **<font color=blue>Real-Time 3D Object Detection with Inference-Aligned Learning</font>**\\
 **<u>Chenyu Zhao</u>**, Xianwei Zheng, Zimin Xia, Linwei Yue, Nan Xue
 
-**[** [**Paper**](https://arxiv.org) **]**
+**[** [**Paper**](https://arxiv.org/abs/2511.16140) **]**
 <!-- <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
 **[** [**Code**](https://github.com/zhaocy-ai/sr3d) **]**
 
